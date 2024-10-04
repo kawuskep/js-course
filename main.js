@@ -5,7 +5,7 @@ let deposit
 const mission = 5
 const period = 1
 
-alert('Hello');
+alert('Hello world!');
 
 console.log('Завтра выходной');
 
